@@ -1,0 +1,18 @@
+.calendar td {
+    padding: 10px;
+    width: 30px;
+    text-align: center;
+}
+tr.header td {
+    background-color: blueviolet;
+    color: white;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+td.event {
+    background-color: brown;
+    color: white;
+}
+td.mute {
+    color: #a7a7a7;
+}
